@@ -43,12 +43,12 @@
             "currentEnvironmentId": "40288db3-cfe1-4f91-ad58-4f3eac59cf01",
             "promotedFrom": null,
             "parentVersionId": null,
-            "status": "DRAFT",
-            "description": null,
+            "status": "PUBLISHED",
+            "description": "v1",
             "publishedAt": null,
             "releasedAt": null,
             "createdAt": "2026-03-02T08:38:16.737Z",
-            "updatedAt": "2026-03-02T08:38:16.658Z"
+            "updatedAt": "2026-03-02T08:47:23.425Z"
           },
           "components": [],
           "pages": [
@@ -97,12 +97,12 @@
               "currentEnvironmentId": "40288db3-cfe1-4f91-ad58-4f3eac59cf01",
               "promotedFrom": null,
               "parentVersionId": null,
-              "status": "DRAFT",
-              "description": null,
+              "status": "PUBLISHED",
+              "description": "v1",
               "publishedAt": null,
               "releasedAt": null,
               "createdAt": "2026-03-02T08:38:16.737Z",
-              "updatedAt": "2026-03-02T08:38:16.658Z"
+              "updatedAt": "2026-03-02T08:47:23.425Z"
             }
           ],
           "appEnvironments": [
